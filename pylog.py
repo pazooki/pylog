@@ -4,7 +4,7 @@ import time
 import datetime
 from pprint import pprint
 
-PATH = '/Users/mehrdadpazooki/emacsd/pydid/records/%s.log'
+PATH = '~/records/%s.log'
 
 class Record():
     def __init__(self, record):
